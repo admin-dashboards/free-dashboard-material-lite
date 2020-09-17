@@ -2,7 +2,7 @@
 
 > Open-Source Bootstrap template released under the MIT License by WrapPixel
 
-You can now create a fantastic user interface with our top-notch Bootstrap layout templates now available for free download. This template will help you kick off your online presence in style and is flexible and responsive to work across screens and browsers. This template is perfect for tracking all kinds of data in an efficient and simplified manner. The best part is that you can get your project up and running without having to spend a dime on expensive designers or developers.
+WrapPixel's MaterialPro Bootstrap Lite is one of the best Bootstrap templates for admin dashboards and control admin panels. This powerful and competent Bootstrap 4 admin template is based on HTML and is built with the CSS framework. Inspired by Google Material design principles and integrated with the essential Bootstrap components and UI elements, the all-new and comprehensive MaterialPro Bootstrap Lite from WrapPixel has a lot to offer to you.
 
 <br />
 
